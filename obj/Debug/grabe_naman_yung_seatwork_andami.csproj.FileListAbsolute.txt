@@ -1,0 +1,14 @@
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\bin\Debug\grabe_naman_yung_seatwork_andami.exe.config
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\bin\Debug\grabe_naman_yung_seatwork_andami.exe
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\bin\Debug\grabe_naman_yung_seatwork_andami.pdb
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.csproj.AssemblyReference.cache
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.Form1.resources
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.Properties.Resources.resources
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.csproj.GenerateResource.cache
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.exe
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.pdb
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.Options.resources
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\bin\Debug\FontAwesome.Sharp.dll
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.csproj.CopyComplete
+C:\xampp\htdocs\3c\grabe_naman_yung_seatwork_andami\obj\Debug\grabe_naman_yung_seatwork_andami.WriteCsv.resources
